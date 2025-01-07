@@ -39,8 +39,7 @@ int main(){
   int zero = 0, wedge0 = 0, skipped0 = 0;
  
   for(int s = 0 ; s < 62 ; s++)
-  {
-    
+  {    
     if(wedge0 == 61)
     {
       wedge0 = 0;
